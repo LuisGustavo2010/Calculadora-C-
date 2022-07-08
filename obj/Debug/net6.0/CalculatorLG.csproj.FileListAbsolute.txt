@@ -1,0 +1,15 @@
+C:\DEV\CalculatorLG\bin\Debug\net6.0\CalculatorLG.exe
+C:\DEV\CalculatorLG\bin\Debug\net6.0\CalculatorLG.deps.json
+C:\DEV\CalculatorLG\bin\Debug\net6.0\CalculatorLG.runtimeconfig.json
+C:\DEV\CalculatorLG\bin\Debug\net6.0\CalculatorLG.dll
+C:\DEV\CalculatorLG\bin\Debug\net6.0\CalculatorLG.pdb
+C:\DEV\CalculatorLG\obj\Debug\net6.0\CalculatorLG.csproj.AssemblyReference.cache
+C:\DEV\CalculatorLG\obj\Debug\net6.0\CalculatorLG.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\CalculatorLG\obj\Debug\net6.0\CalculatorLG.AssemblyInfoInputs.cache
+C:\DEV\CalculatorLG\obj\Debug\net6.0\CalculatorLG.AssemblyInfo.cs
+C:\DEV\CalculatorLG\obj\Debug\net6.0\CalculatorLG.csproj.CoreCompileInputs.cache
+C:\DEV\CalculatorLG\obj\Debug\net6.0\CalculatorLG.dll
+C:\DEV\CalculatorLG\obj\Debug\net6.0\refint\CalculatorLG.dll
+C:\DEV\CalculatorLG\obj\Debug\net6.0\CalculatorLG.pdb
+C:\DEV\CalculatorLG\obj\Debug\net6.0\CalculatorLG.genruntimeconfig.cache
+C:\DEV\CalculatorLG\obj\Debug\net6.0\ref\CalculatorLG.dll
